@@ -75,9 +75,9 @@ Saint Petersburg, Russia
 Global Digital Presence
 
 **Connect With Us:**  
-- 🌐 Website: *[Insert Website URL]*
-- 📧 Email: *[Insert Contact Email]*
-- 💻 GitHub: *[Insert GitHub Profile/Org Link]*
+- 🌐 Website: *[Coming Soon]*
+- 📧 Email: *[Coming Soon]*
+- 💻 GitHub: *[github.com/Xyra-Company]*
 
 ---
 
