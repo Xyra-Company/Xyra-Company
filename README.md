@@ -77,7 +77,7 @@ Global Digital Presence
 **Connect With Us:**  
 - 🌐 Website: *[Coming Soon]*
 - 📧 Email: *[Coming Soon]*
-- 💻 GitHub: *[github.com/Xyra-Company]*
+- 💻 GitHub: *[https://github.com/Xyra-Company]*
 
 ---
 
