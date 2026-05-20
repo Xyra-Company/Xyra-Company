@@ -66,18 +66,17 @@ Infrastructure security is the foundation of digital trust. Xyra Company provide
 
 ---
 
-## 📍 Contact & Location
+## 📬 Connect With Us
+
+| Channel | Contact / Link | Purpose |
+| :--- | :--- | :--- |
+| 🌐 **Website** | *[Xyra-Company.net]* | Official updates & services |
+| 📧 **Public Info** | [`core@xyra-company.net`](mailto:core@xyra-company.net) | General information, partnerships, & public relations |
+| 🛠️ **Support** | [`support@xyra-company.net`](mailto:support@xyra-company.net) | Customer service, technical support, & client assistance |
+| 💻 **GitHub** | [github.com/Xyra-Company](https://github.com/Xyra-Company) | Open-source projects, tools, & repositories |
 
 **Headquarters:**  
 Saint Petersburg, Russia
-
-**Operational Scope:**  
-Global Digital Presence
-
-**Connect With Us:**  
-- 🌐 Website: *[Coming Soon]*
-- 📧 Email: *[Coming Soon]*
-- 💻 GitHub: *[https://github.com/Xyra-Company]*
 
 ---
 
