@@ -3,66 +3,87 @@
 > **Architecting Resilience in a Digital Chaos**
 
 **Location:** Saint Petersburg, Russia  
-**Focus:** Cybersecurity Research, Low-Level Development, AI Intelligence, Infrastructure Hardening
+**Focus:** Proprietary Cybersecurity Infrastructure, Low-Level System Architecture, Synthetic Intelligence, Offensive & Active Defense
 
 ---
 
 ## 📖 About Us
 
-**Xyra Company** is not just a technology firm; we are a dynamic collective operating at the forefront of IT innovation and cybersecurity. Founded on the principles of adaptability and technical excellence, Xyra brings together multidisciplinary experts—from **red-hat hackers** and **low-level system developers** to **AI forensics specialists**—to deliver solutions that are not only reactive but proactive and predictive.
+**Xyra Company** is a sovereign technology collective operating at the absolute edge of digital warfare and system engineering. We reject the dependency on third-party vendors and public open-source frameworks. Instead, we build our own reality.
 
-Headquartered in **Saint Petersburg, Russia**, a city with a rich history of mathematical and engineering prowess, we leverage this environment of intellectual rigor to tackle complex digital challenges. We believe that in a rapidly evolving digital ecosystem, rigidity is a vulnerability. Therefore, Xyra adopts a **fluid approach** to IT challenges, combining deep research, custom tool development, and strict infrastructure audits to protect and empower our clients' digital assets.
+Headquartered in **Saint Petersburg, Russia**, we leverage a culture of mathematical rigor and engineering precision to create self-sufficient security ecosystems. Our philosophy is simple: **True security cannot be borrowed; it must be built.**
 
----
-
-## 🛡️ Core Pillars of Competence
-
-### 1. Advanced Security Research & Offensive Defense
-*We do not just find vulnerabilities; we understand exploitation mechanisms to build impenetrable defenses.*
-
-In an era where threats evolve faster than standard patches, Xyra Company offers aggressive yet ethical offensive security services. Our **Red-Hat** team simulates advanced attacks to test your system's resilience before real adversaries do.
-
-- **🔴 Red-Teaming Operations:** Comprehensive attack simulations mimicking the Tactics, Techniques, and Procedures (TTPs) of real-world threat actors, including cellular network (4G/5G) bypass and perimeter infiltration.
-- **🔍 Vulnerability Assessment & Zero-Day Discovery:** Utilizing custom algorithms and fuzzing techniques to identify zero-day vulnerabilities before they are published as CVEs. We focus on discovering logic and memory flaws that often escape automated scanners.
-- **💥 Custom Exploit Development:** Development of proof-of-concept (PoC) and specialized exploitation tools to validate vulnerability severity and strengthen mitigation. We also develop automated counter-attack mechanisms to actively neutralize intruders.
-
-### 2. Core Systems Development & Low-Level Engineering
-*Building digital foundations from scratch, with machine-language precision and maximum efficiency.*
-
-Xyra Company boasts a strong R&D division in system-level software development. We reject excessive reliance on heavy frameworks, choosing instead to write code that is lightweight, fast, and difficult to detect.
-
-- **⚙️ Custom Compiler Construction:** Our lead developers are revolutionizing code execution through the **LOOP-based Compiler**, a custom programming language and interpreter designed for unique logic execution and obfuscation. This allows for the creation of binaries that are difficult for adversaries to reverse-engineer.
-- **🚀 High-Performance C++ Tooling:** Development of server access tools, remote control systems, and stealth communication channels using C++ for maximum performance and minimal memory footprint. Deployment targets range from `x86_64` architectures to `ARM` (Raspberry Pi).
-- **🐧 Advanced Shell Scripting & Automation:** Creation of custom shell programs and automation scripts for Linux system management (**Garuda/BlackArch/Kali**). We automate repetitive security processes, reducing the need for manual remote access and ensuring consistent network configuration.
-
-### 3. AI-Driven Intelligence & Digital Forensics
-*Transforming data into intelligence, and noise into signals.*
-
-At the intersection of artificial intelligence and digital investigation, Xyra Company leverages AI to accelerate OSINT processes and behavioral analysis, without relying on public API keys that are prone to restrictions.
-
-- **🕵️ Autonomous OSINT Automation:** Integration of tools like *Maigret, Sherlock, Holehe,* and *Exiftool* into custom AI pipelines. Our systems can automatically gather digital footprints, verify phone number activation dates, and map target profiles with minimal human intervention.
-- **👁️ Biometric & Physical Trait Analysis:** Development of AI modules for reverse engineering biometric data, including facial analysis, fingerprint matching, and other physical characteristics from open sources, for identity verification and fraud detection.
-- **🤖 AI Behavior Auditing:** Deep auditing of AI models and bots to detect behavioral anomalies, biases, or input manipulations (prompt injection). We ensure that the AI systems you use behave according to intent and are not easily hijacked.
-- **📂 Digital Forensics & Log Sanitization:** Post-incident forensic services equipped with log cleaning and search capabilities for penetration testing purposes and defensive training.
-
-### 4. Infrastructure Hardening & Specialized Audits
-*Protecting the backbone of your operations, from physical servers to virtual worlds.*
-
-Infrastructure security is the foundation of digital trust. Xyra Company provides comprehensive audit and maintenance services, covering aspects from hardware to complex web applications.
-
-- **🖥️ Comprehensive Server Maintenance:** Continuous monitoring, security patching, and hardening of Linux server configurations. We implement tools like **Zeek**, **OpenCanary**, and **Illusive** for early intrusion detection and deception technology.
-- **🎮 Game Server Security Audit:** Specialization in securing game server architectures against cheats, DDoS attacks, and network protocol exploits. We analyze packet traffic and game logic to ensure fair play and service availability.
-- **🌐 Network & Hardware Auditing:** Physical and logical evaluation of network hardware, including the procurement of Linux-compatible adapters. We ensure every network endpoint, from routers to IoT devices, is configured to the highest security standards.
-- **🌐 Web Development Security:** Source code auditing of web applications to prevent common vulnerabilities (OWASP Top 10) as well as complex business logic flaws.
+From custom compiler construction to synthetic intelligence gathering, Xyra Company delivers solutions that are opaque to adversaries, independent of external APIs, and lethal in their efficiency. We do not just audit systems; we redefine the rules of engagement.
 
 ---
 
-## 💡 Why Choose Xyra Company?
+## 🏛️ Operational Divisions
 
-1.  **Proactive Red-Hat Approach:** We do not wait for attacks to happen. We hunt threats, develop counter-measures, and actively strengthen client security postures through realistic attack simulations.
-2.  **Technological Independence:** With the development of custom compilers, C++ tools, and proprietary automation scripts, we are not dependent on third-party vendors. This gives us speed, flexibility, and software supply chain security.
-3.  **Guaranteed Privacy & Anonymity:** Aligning with our founder's philosophy, we design solutions that minimize data leakage. Our preference for localhost operations, avoidance of public API keys, and custom key encryption techniques ensure that client data remains under their full control.
-4.  **Aesthetics & Functionality:** We believe that good tools must be both effective and inspiring. Our solutions often feature interfaces (UI/CLI) with a customizable "hacking" aesthetic, enhancing the user experience for security operators.
+Xyra Company operates through five specialized, interconnected divisions, each designed to dominate a specific vector of the digital landscape.
+
+### 1. 🧠 Synthetix Intel Team
+**Focus:** `AI` | `OSINT` | `Forensics` | `Data Synthesis`  
+*"Intelligence by Synthesis. Collect · Correlate · Synthesize · Anticipate"*
+
+The brain of Xyra’s operations. Synthetix does not rely on public API keys or restricted commercial databases. We deploy **proprietary AI-driven scraping engines** and **custom forensic algorithms** to turn raw noise into actionable threat intelligence.
+
+*   **Autonomous Data Synthesis:** Custom-built AI pipelines that aggregate, verify, and correlate digital footprints without external dependencies.
+*   **Biometric & Behavioral Reverse Engineering:** Proprietary modules for analyzing physical traits and behavioral patterns from open sources, bypassing standard verification barriers.
+*   **Zero-Trace Forensics:** Advanced log analysis and sanitization tools developed in-house, ensuring complete operational secrecy during and after engagements.
+*   **Signal Detection & Adversary Profiling:** Deep-learning models trained to detect subtle anomalies in network traffic and user behavior, predicting threats before they materialize.
+
+### 2. 🔴 Red Team
+**Focus:** `Offensive Ops` | `Zero-Day Discovery` | `Exploit Development`  
+*"Infiltrate · Exploit · Dominate. No system is safe until we say it is."*
+
+Xyra’s elite offensive division. We simulate real-world, advanced persistent threats (APTs) to test the limits of digital resilience. We do not use script-kiddie tools; we write our own weapons.
+
+*   **Full Kill-Chain Engagements:** End-to-end attack simulations mimicking state-level actors, including cellular network (4G/5G) protocol exploitation and perimeter breach.
+*   **Zero-Day Research & Fuzzing:** Utilizing custom fuzzing algorithms and memory corruption techniques to discover vulnerabilities before they are known to the public.
+*   **Custom Exploit Development:** Creation of bespoke, undetectable payloads and proof-of-concept (PoC) exploits tailored to specific target architectures.
+*   **Stealth & Evasion:** Development of low-level C++ tools designed to bypass EDR/XDR solutions and remain invisible in memory.
+
+### 3. 🛡️ Counter-Measure Team
+**Focus:** `Active Defense` | `Purple Teaming` | `Deception Protocols`  
+*"Active Defense · Deception · Threat Eliminated. We make attackers regret trying."*
+
+We do not wait for attacks to happen. This division engineers hostile environments for intruders, turning defensive structures into offensive traps.
+
+*   **Honeypot & Deception Engineering:** Deployment of high-interaction honeypots and fake infrastructure layers that mislead, track, and waste adversary resources.
+*   **Automated Counter-Attacks:** Proprietary systems that identify active intruders and launch automated, localized counter-measures to neutralize the threat source.
+*   **Purple Team Integration:** Real-time feedback loops between Red and Blue teams to instantly patch exploited vectors and update deception protocols.
+*   **Post-Incident Forensics & Sanitization:** Rapid response teams that not only analyze breaches but also scrub digital traces to protect client identity and data integrity.
+
+### 4. ⚙️ Core & Logic Team
+**Focus:** `R&D` | `Compiler Development` | `Low-Level Engineering`  
+*"Build · Test · Improve. Vendor-independent, performance-first engineering."*
+
+The engine room of Xyra. This team ensures our technological sovereignty by building the foundational tools that power our operations.
+
+*   **LOOP Language & Compiler:** Development and maintenance of the proprietary **LOOP-based programming language** and its custom compiler (`loopc.py` to C++ standalone). Designed for obfuscation, efficiency, and resistance to reverse engineering.
+*   **High-Performance C++ Tooling:** Creation of lightweight, memory-safe utilities for server control, remote access, and stealth communication, targeting both `x86_64` and `ARM` (Raspberry Pi) architectures.
+*   **Custom Shell & Automation:** Development of bespoke shell environments and automation scripts for Linux (Garuda/BlackArch), eliminating reliance on standard bash/zsh configurations.
+*   **Kernel & Driver Modification:** Low-level adjustments to network interfaces and hardware drivers to ensure maximum compatibility and security for custom adapters.
+
+### 5. 🔵 Blue Team
+**Focus:** `Infrastructure Hardening` | `Monitoring` | `Incident Response`  
+*"Detect · Respond · Recover · Harden. Powered by real Red Team data."*
+
+The shield of Xyra. Leveraging live threat intelligence from Synthetix and attack data from the Red Team, this division fortifies infrastructure against evolving threats.
+
+*   **Infrastructure Hardening:** Comprehensive auditing and securing of Linux servers, network devices, and IoT endpoints.
+*   **Real-Time Threat Monitoring:** Deployment of custom detection rules and proprietary monitoring tools (enhancing concepts like Zeek/OpenCanary with internal logic) for early intrusion detection.
+*   **Game Server & Web Security:** Specialized protection for high-traffic game servers and web applications, preventing DDoS, cheat injection, and logic exploits.
+*   **Continuous Compliance & Audit:** Regular, rigorous audits of hardware and software assets to ensure alignment with Xyra’s strict security standards.
+
+---
+
+## 💡 The Xyra Advantage
+
+1.  **Total Technological Sovereignty:** We do not rely on GitHub scripts or public APIs. Every tool, from our OSINT gatherers to our compilers, is built in-house. This eliminates supply chain risks and ensures our tools are unknown to signature-based defenses.
+2.  **Synthetic Intelligence:** Our AI models are trained on proprietary datasets, allowing us to see patterns that commercial tools miss.
+3.  **Aggressive Proactivity:** We don’t just defend; we counter-attack. Our Active Defense protocols ensure that every attempt to breach our clients’ systems comes with a heavy price for the attacker.
+4.  **Precision Engineering:** From the LOOP language to custom C++ binaries, our code is written for speed, stealth, and stability.
 
 ---
 
@@ -70,10 +91,10 @@ Infrastructure security is the foundation of digital trust. Xyra Company provide
 
 | Channel | Contact / Link | Purpose |
 | :--- | :--- | :--- |
-| 🌐 **Website** | *https://Xyra-Company.net* | Official updates & services |
-| 📧 **Public Info** | [`core@xyra-company.net`](mailto:core@xyra-company.net) | General information, partnerships, & public relations |
-| 🛠️ **Support** | [`support@xyra-company.net`](mailto:support@xyra-company.net) | Customer service, technical support, & client assistance |
-| 💻 **GitHub** | [github.com/Xyra-Company](https://github.com/Xyra-Company) | Open-source projects, tools, & repositories |
+| 🌐 **Website** | [Xyra-Company.net](https://Xyra-Company.net) | Official updates & services |
+| 📧 **Public Info** | [core@xyra-company.net](mailto:core@xyra-company.net) | General information, partnerships, & public relations |
+| 🛠️ **Support** | [support@xyra-company.net](mailto:support@xyra-company.net) | Customer service, technical support, & client assistance |
+| 💻 **GitHub** | [github.com/Xyra-Company](https://github.com/Xyra-Company) | Select open-source projects & repositories |
 
 **Headquarters:**  
 Saint Petersburg, Russia
@@ -83,5 +104,4 @@ Saint Petersburg, Russia
 <p align="center">
   <strong>Xyra Company</strong><br>
   <em>Code with Precision. Defend with Aggression. Innovate without Limits.</em><br>
-  <sub>Powered by Linux. Driven by Curiosity.</sub>
 </p>
